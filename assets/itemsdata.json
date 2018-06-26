@@ -1,0 +1,174 @@
+[
+    { 
+        "1" : [
+            { "question" : "What is my Name? " },
+            {"options" :
+                        [
+                            "Moshood",
+                            "Faruk",
+                            "Idris",
+                            "Abibat"
+                        ]
+        },
+        ["Moshood"],
+        ["names"]
+            ]
+            
+    },
+
+    { 
+        "1" : [
+            { "question" : "Which of the following is a fruit? " },
+            {"options" :
+                        [
+                            "Potato",
+                            "Mango",
+                            "Carrot",
+                            "Oni"
+                        ]   
+        },
+        ["Mango"],
+        ["fruit"]
+            ]
+    },
+
+    { 
+        "1" : [
+            { "question" : "What is a baby lion called? " },
+            {"options" :
+                        [
+                            "Kid",
+                            "Cub",
+                            "Lioness",
+                            "Lionbaby"
+                        ]   
+        },
+        ["Cub"],
+        ["animal"]
+            ]
+    },
+    { 
+        "1" : [
+            { "question" : "A group of eagle is known as what? " },
+            {"options" :
+                        [
+                            "Convocation",
+                            "Matriculation",
+                            "Constellation",
+                            "Eaglets"
+                        ]   
+        },
+        ["Convocation"],
+        ["eagle"]
+            ]
+    },
+    { 
+        "1" : [
+            { "question" : "French cheese originated from which of these countries? " },
+            {"options" :
+                        [
+                            "Netherland",
+                            "France",
+                            "England",
+                            "Belgium"
+                        ]   
+        },
+        ["Belgium"],
+        ["country"]
+            ]
+    },
+    { 
+        "1" : [
+            { "question" : "Who is the current CEO of Google? " },
+            {"options" :
+                        [
+                            "Larry Page",
+                            "Satya Nadella",
+                            "Sundar Pichai",
+                            "Sergey Brin"
+                        ]   
+        },
+        ["Sundar Pichai"],
+        ["google"]
+            ]
+    },
+    { 
+        "1" : [
+            { "question" : "Thanos is the name of a supervillain in which of the following Movies? " },
+            {"options" :
+                        [
+                            "Avengers: Infinity War",
+                            "Avengers: Age of ultron",
+                            "Guardians of the Galaxy",
+                            "Black Panther"
+                        ]   
+        },
+        ["Avengers: Infinity War"],
+        ["thanos"]
+            ]
+    },
+    { 
+        "1" : [
+            { "question" : "One of the following is not A repository for hosting source code? " },
+            {"options" :
+                        [
+                            "GitHub",
+                            "Bitbucket",
+                            "Azure",
+                            "Gitlab"
+                        ]   
+        },
+        ["Azure"],
+        ["repo"]
+            ]
+    },
+    { 
+        "1" : [
+            { "question" : "Who developed the World Wide Web? " },
+            {"options" :
+                        [
+                            "Steve Jobs",
+                            "Tim Berners-Lee",
+                            "Bill Gates",
+                            "Daniel Ritchie"
+                        ]   
+        },
+        ["Tim Berners-Lee"],
+        ["www"]
+            ]
+    },
+    { 
+        "1" : [
+            { "question" : "Which of the following is not a programming language? " },
+            {"options" :
+                        [
+                            "Python",
+                            "JavaScript",
+                            "Go",
+                            "HTML"
+                        ]   
+        },
+        ["HTML"],
+        ["lang"]
+            ]
+    },
+    { 
+        "1" : [
+            { "question" : "Which is the 'worst' internet service provider in Nigeria? " },
+            {"options" :
+                        [
+                            "MTN",
+                            "Airtel",
+                            "Etisalat",
+                            "Glo"
+                        ]   
+        },
+        ["Glo"],
+        ["internet"]
+            ]
+    }
+
+
+]
+            
+           
